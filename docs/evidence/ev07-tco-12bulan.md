@@ -51,6 +51,6 @@
 
 ## 4. Kesimpulan Auditing
 
-Temuan Audit 06 telah ditutup. Dokumen telah memperjelas perbedaan antara tarif kas aktual (Rp 0 selama menggunakan kredit Azure for Students) dengan tarif TCO operasional normal 12 bulan (Rp 3.719.100). Peringatan anggaran dan skenario transisi setelah kredit habis telah ditetapkan.
+Temuan Audit 06 telah ditutup.  Dokumen telah memperjelas perbedaan antara tarif kas aktual (Rp 0 selama menggunakan kredit Azure for Students) dengan tarif TCO operasional normal 12 bulan (Rp 3.719.100). Peringatan anggaran dan skenario transisi setelah kredit habis telah ditetapkan.
 
 ```
